@@ -1,7 +1,7 @@
 import streamlit as st
 
 #image
-st.image("gad7.png", use_column_width=True, caption="Program By: Marcus C. Rodriguez")
+st.image("gad7.png", use_container_width=True, caption="Program By: Marcus C. Rodriguez")
 
 # Title of the app
 st.header("Discussion 14: (GAD-7) Questionnaire")
